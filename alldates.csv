@@ -1,0 +1,891 @@
+ID1;ID;D;SD;MATERIAL;COUNTRY;SITE;PERIOD;REFERENCE;SC
+;$AL-1;7990;45;;Albania;Sovjan;mesolithic;;AL2SOV
+;$GR2-1;7770;340;;Greece;Sidari;mesolithic;(Berger J.-F., et al., 2014);GR2SID
+;$IT-10;6040;80;;Italy;San Domenico ;neolithic;Fiorentino 13;IT2SDO
+;$IT2-00;7300;60;;Italy;Terragne;mesolithic;;IT2TER
+;$IT2-1;7267;65;;Italy;Forlì, Cantiere ANAS;mesolithic;(Gobbo I., 2010: 163-164;IT2FOCA
+;$IT2-10;6422;50;;Italy;Riccione;neolithic;"(Bernabò Brea M., et al., 2011; Gobbo I., 2000)";IT2RICC
+;$IT2-2;6247;132;;Italy;Grotta dei Piccion;neolithic;(Grifoni Cremonesi R., 1998);IT2GRPI
+;$IT2-3;6430;80;;Italy;San Marco di Gubbio;neolithic;"(Grifoni Cremonesi R, 1998;";IT2SMGU
+;$IT2-4;6270;70;;Italy;San Marco di Gubbio;neolithic;"(Grifoni Cremonesi R, 1998;";IT2SMGU
+;$IT2-5;5750;70;;Italy;San Marco di Gubbio;neolithic;"(Grifoni Cremonesi R, 1998;";IT2SMGU
+;$IT2-6;6638;75;;Italy;Maddalena di Muccia;neolithic;(Conati Barbaro C. & Silvestrini M., 2005):;IT2MAUC
+;$IT2-7;6637;83;;Italy;Maddalena di Muccia;neolithic;(Conati Barbaro C. & Silvestrini M., 2005):;IT2MAUC
+;$IT2-8;6640;50;;Italy;Maddalena di Muccia;neolithic;(Conati Barbaro C. & Silvestrini M., 2005):;IT2MAUC
+;$IT2-9;6885;50;;Italy;Portonovo di Ancona;neolithic;A. Manfredini, et al., (2005;IT2POANC
+;a;5570;40;;Italy;Capo Rondinella ;neolithic;Fiorentino 13;IT2CRO
+;b;6060;60;;Italy;Capo Rondinella ;neolithic;Fiorentino 13;IT2CRO
+;c;6340;40;;Italy;Capo Rondinella ;neolithic;Fiorentino 13;IT2CRO
+;d;6130;80;;Italy;Capo Rondinella ;neolithic;Fiorentino 13;IT2CRO
+;AEC-1996C;6360;180;;Italy;Fonte Chiarano;mesolithic;(Lubell D., et al., 1999);IT2FOCH
+;ALTL-2720A;6178;55;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;AR-351;6540;65;;Italy;Scaramella ;neolithic;Fiorentino 13;IT2SCM
+;Beta-;6360;70;;Italy;San Domenico ;neolithic;Fiorentino 13;IT2SDO
+;Beta-103474;3410;110;charcoal;Croatia;Grapčeva špilja;neolithic;Kaiser 10;HR2GRA
+;Beta-103475;3480;50;charcoal;Croatia;Grapčeva špilja;neolithic;Kaiser 10;HR2GRA
+;Beta-103476;3970;50;charcoal;Croatia;Grapčeva špilja;neolithic;Kaiser 10;HR2GRA
+;Beta-103477;3880;120;charcoal;Croatia;Grapčeva špilja;neolithic;forenbaher 18;HR2GRA
+;Beta-103478;4190;50;charcoal;Croatia;Grapčeva špilja;neolithic;forenbaher 18;HR2GRA
+;Beta-103479;4510;50;charcoal;Croatia;Grapčeva špilja;neolithic;Kaiser 10;HR2GRA
+;Beta-103480;4700;100;charcoal;Croatia;Grapčeva špilja;neolithic;Kaiser 10;HR2GRA
+;Beta-103481;5650;100;charcoal;Croatia;Grapčeva špilja;neolithic;Kaiser 10;HR2GRA
+2315;Beta-103482;5460;60;charcoal;Croatia;Grapčeva špilja;neolithic;Biagi 2002;HR2GRA
+2316;Beta-103483;5720;70;charcoal;Croatia;Grapčeva špilja;neolithic;Biagi 2002;HR2GRA
+2317;Beta-103484;5420;70;charcoal;Croatia;Grapčeva špilja;neolithic;Biagi 2002;HR2GRA
+2318;Beta-103485;6130;80;charcoal;Croatia;Grapčeva špilja;neolithic;Biagi 2002;HR2GRA
+2319;Beta-103486;5900;60;charcoal;Croatia;Grapčeva špilja;neolithic;Biagi 2002;HR2GRA
+2320;Beta-103487;6000;80;charcoal;Croatia;Grapčeva špilja;neolithic;Biagi 2002;HR2GRA
+;Beta-103488;7030;60;charcoal;Croatia;Grapčeva špilja;neolithic;Kaiser 10;HR2GRA
+;Beta-1063481;5650;100;;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+;Beta-106625;5210;40;charcoal;Croatia;Grapčeva špilja;neolithic;Kaiser 10;HR2GRA
+;Beta-120270;7840;130;;Croatia;Abri Šebrn;mesolithic;Komšo;HR2SEB
+;Beta-120271;9070;90;;Croatia;Abri Šebrn;mesolithic;Komšo;HR2SEB
+;Beta-120272;9280;40;;Croatia;Abri Šebrn;mesolithic;Komšo;HR2SEB
+;Beta-127701;9800;80;;Croatia;Klanjčeva peć;mesolithic;Komšo;HR2KLA
+;Beta-127702;8520;110;;Croatia;Klanjčeva peć;mesolithic;Komšo;HR2KLA
+;Beta-127704;8150;70;;Croatia; Nugljanska Peć;mesolithic;Komšo;HR2NUG
+;Beta-127707;8810;80;;Croatia;Abri Šebrn;mesolithic;Komšo;HR2SEB
+;Beta-129332;9840;60;;Croatia;Pupićina peč;mesolithic;Komšo;HR2PUP
+2428;Beta-131624;6270;120;;Croatia;Pupićina peč;neolithic;RADON;HR2PUP
+2429;Beta-131625;6680;100;;Croatia;Pupićina peč;neolithic;RADON;HR2PUP
+;Beta-161933;6650;50;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;Beta-184796;9930;50;tooth;Slovenia;Viktorjev spomol;mesolithic;Turk ;SI2VSP
+;Beta-184797;8300;50;bone;Slovenia;Viktorjev spomol;mesolithic;Turk ;SI2VSP
+;Beta-184798;9560;60;shell;Slovenia;Viktorjev spomol;mesolithic;Turk ;SI2VSP
+;Beta-188920;8660;130;charcoal;Croatia;Pupićina peč;mesolithic;Komšo;HR2PUP
+;Beta-211503;7630;40;charcoal;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;Beta-211504;7650;40;charcoal;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;Beta-211505;8830;40;charcoal;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;Beta-218732;11740;90;charcoal;Croatia;Zemunica;mesolithic;Rajna 15;HR2ZEM
+;Beta-218733;10000;70;charcoal;Croatia;Zemunica;mesolithic;Rajna 15;HR2ZEM
+;Beta-218734;7060;50;charcoal;Croatia;Zemunica;neolithic;Rajna 15;HR2ZEM
+;Beta-222405;6500;60;bone;Croatia;Crno Vrilo;neolithic;Marjanovic 09;HR2CRN
+;Beta-222406;6820;50;bone;Croatia;Crno Vrilo;neolithic;Marjanovic 09;HR2CRN
+;Beta-225629;6920;40;charcoal;Croatia;Zemunica;neolithic;Rajna 15;HR2ZEM
+;Beta-225630;7120;40;bone;Croatia;Zemunica;neolithic;Rajna 15;HR2ZEM
+;Beta-225631;9620;50;charcoal;Croatia;Zemunica;mesolithic;Rajna 15;HR2ZEM
+;Beta-225632;9700;50;charcoal;Croatia;Zemunica;mesolithic;Rajna 15;HR2ZEM
+;Beta-236133;9310;60;bone;Croatia;Zemunica;mesolithic;Rajna 15;HR2ZEM
+;Beta-236134;6550;40;bone;Croatia;Zemunica;neolithic;Rajna 15;HR2ZEM
+;Beta-241020;3850;60;charcoal;Croatia;jukića gomile;neolithic;forenbaher 18;HR2JGO
+;Beta-241024;3590;40;charcoal;Croatia;jukića gomile;neolithic;forenbaher 18;HR2JGO
+;Beta-248564;3670;40;human bone;Croatia;Begovići;neolithic;forenbaher 18;HR2BEG
+;Beta-260022;3400;40;bone;Croatia;Zagomilje 2;neolithic;forenbaher 18;HR2ZAG
+;beta-287818;6840;40;;Croatia;Mala Pećina;neolithic;Drnić et al 2018;HR2MAP
+;Beta-293836;6700;50;charcoal;Croatia;Dzurdzeva greda;neolithic;Forenbaher;HR2DZU
+;Beta-396319;8600;30;bone;Italy;Riparo di Biarzo;mesolithic;Vai et al 2015;IT2BIA
+;Beta-396320;9170;40;bone;Italy;Riparo di Biarzo;mesolithic;Vai et al 2015;IT2BIA
+;Beta-396321;8750;30;bone;Italy;Riparo di Biarzo;mesolithic;Vai et al 2015;IT2BIA
+;Beta-396322;7950;30;bone;Italy;Riparo di Biarzo;mesolithic;Vai et al 2015;IT2BIA
+;Beta-404755;8280;30;bone;Italy;Riparo di Biarzo;mesolithic;Vai et al 2015;IT2BIA
+;Beta-426502;9170;30;;Albania;Nezir;mesolithic;Hauc et al 2017;AL2NEZ
+;BETA-426505;9310;30;;Albania;Nezir;mesolithic;Hauc et al 2017;AL2NEZ
+;BETA-426507;9020;30;;Albania;Nezir;mesolithic;Hauc et al 2017;AL2NEZ
+27941;Beta-47808;6890;60;seed/fruit;Italy;Ripa Tetta;neolithic;Natali 2017;IT2RIP
+;Beta-5641;5810;120;charcoal;Albania;Konispol;neolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-56415;7060;110;charcoal;Albania;Konispol;neolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-56416;6800;140;sediment;Albania;Konispol;neolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-59933;6870;70;;Italy;Terragne;neolithic;Fiorentino 13;IT2TER
+;Beta-59934;6930;70;;Italy;Terragne;mesolithic;Fiorentino 13;IT2TER
+;Beta-67084;7630;140;charcoal;Albania;Konispol;neolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-67093;7260;60;;Italy;Terragne;mesolithic;Fiorentino 13;IT2TER
+;Beta-67802;6830;80;charcoal;Albania;Konispol;neolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-67803;7510;90;charcoal;Albania;Konispol;neolithic;(Schuldenrein J., 1998: 510);AL2KON
+27257;Beta-71143;6820;80;charcoal;Italy;Defensola;neolithic;Natali 2017;﻿IT2DEF
+27258;Beta-71144;6670;70;charcoal;Italy;Defensola;neolithic;Natali 2017;﻿IT2DEF
+;Beta-76083;7510;90;charcoal;Albania;Konispol;neolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-784795;4080;40;shell;Slovenia;Mala Triglavca;neolithic;Turk ;SI2MT
+;Beta-79990;7410;80;charcoal;Albania;Konispol;mesolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-80000;7550;80;charcoal;Albania;Konispol;mesolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-80001;8900;180;charcoal;Albania;Konispol;mesolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-80002;6470;70;charcoal;Albania;Konispol;neolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-80003;5200;80;charcoal;Albania;Konispol;neolithic;(Schuldenrein J., 1998: 510);AL2KON
+;Beta-80603;6540;60;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+27259;Beta-80604;6570;70;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;Beta-80605;5170;70;;Italy;Martinetti ;neolithic;Fiorentino 13;IT2MAR
+;Birm- 2;5820;135;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+;Birm-1005;4130;100;charcoal;Italy;Tolerait;neolithic;;IT2TOLE
+28014;Birm-103;5520;140;bone;Italy;Rocca di Rivoli;neolithic;Birm Datelist IV;﻿IT2ROCCA
+28015;Birm-104;5670;130;bone;Italy;Rocca di Rivoli;neolithic;Birm Datelist X;﻿IT2ROCCA
+;Birm-1132;4420;90;;Italy;Manebra;neolithic;;IT2MANEB
+27335;Birm-172;6240;100;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Birm Datelist IV;﻿IT2FMC
+27336;Birm-173;6290;150;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27337;Birm-174;6350;140;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27333;Birm-175;6450;110;wood;Italy;Fimon-Molino Casarotto, Site 3;neolithic;--;﻿IT2FMC
+27338;Birm-176;6470;150;wood;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27339;Birm-177;6125;150;peat;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27340;Birm-261;5780;135;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Birm Datelist VI;﻿IT2FMC
+27341;Birm-262;5820;135;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Birm Datelist VI;﻿IT2FMC
+27342;Birm-263;5525;200;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Birm Datelist VI;﻿IT2FMC
+27343;Birm-264;5750;135;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Birm Datelist VI;﻿IT2FMC
+27344;Birm-265;5930;130;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Birm Datelist VI;﻿IT2FMC
+27345;Birm-266;5555;130;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Birm Datelist VI;﻿IT2FMC
+27346;Birm-267;5700;130;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Birm Datelist VI;﻿IT2FMC
+27364;Birm-268;4890;130;wood;Italy;Fimon-Molino Casarotto, site 7;Chalcolithic;Birm Datelist VI;﻿IT2FMC
+;Birm-2a;5525;50;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+;Birm-2b;5700;135;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+;Birm-2c;5750;135;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+;Birm-2d;5780;135;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+;Birm-2e;5930;130;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+;Birm-2f;5555;50;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+27750;Birm-469;3840;210;charcoal;Italy;Monte Covolo;Bronze Age;Birm Datelist IX;﻿IT2MCOV
+27751;Birm-470;3810;210;charcoal;Italy;Monte Covolo;Chalcolithic;Birm Datelist IX;﻿IT2MCOV
+27752;Birm-471;3950;320;charcoal;Italy;Monte Covolo;Chalcolithic;Birm Datelist IX;﻿IT2MCOV
+27753;Birm-472;4240;190;charcoal;Italy;Monte Covolo;neolithic;Birm Datelist IX;﻿IT2MCOV
+27754;Birm-473;4790;210;charcoal;Italy;Monte Covolo;neolithic;Birm Datelist IX;﻿IT2MCOV
+28016;Birm-616;5070;100;bone;Italy;Rocca di Rivoli;neolithic;Barfield and Bagolini 1976, 140;﻿IT2ROCCA
+28017;Birm-617;5370;70;bone;Italy;Rocca di Rivoli;neolithic;Birm Datelist X;﻿IT2ROCCA
+;Birm-830;7060;130;;Italy;Passo della Comunell;mesolithic;P. Biagi, et al. (1993: 46);IT2PACO
+;Bln 3753;3900;60;human bone;Italy;Caa dei Grii;neolithic;;IT2CAGRII
+27987;Bln-1775?;3800;60;;Italy;Riparo Gaban;Bronze Age;--;﻿IT2GAB
+;Bln-1776;3985;50;charcoal;Italy;Gaban;neolithic;;IT2GAB
+27988;Bln-1776?;3950;50;;Italy;Riparo Gaban;Chalcolithic;--;﻿IT2GAB
+27989;Bln-1777;6030;45;charcoal;Italy;Riparo Gaban;neolithic;--;﻿IT2GAB
+27990;Bln-1777a;5750;60;charcoal;Italy;Riparo Gaban;neolithic;Bagolini and Biagi 1987a, 427;﻿IT2GAB
+27991;Bln-1778;5990;45;charcoal;Italy;Riparo Gaban;neolithic;--;﻿IT2GAB
+;Bln-2715;4780;100;charcoal;Italy;Volser Aicha;neolithic;Montagnari;IT2VOL
+;Bln-2795*;6090;100;Charcoal;Italy;Ostiano-Dugali Alt;neolithic;Starnini 17;IT2OSTI
+;Bln-2976*;5880;80;charcoal;Italy;Savignano;neolithic;Starnini 17;IT2SAV
+;Bln-2977;5110;50;charcoal;Italy;Mosio;neolithic;;IT2MOSIO
+;Bln-3135;5930;50;charchoal;Italy;Vho di Piadena;neolithic;Starnini 17;IT2VHO
+;Bln-3137;5570;50;charcoal;Italy;Fiorano;neolithic;Starnini 17;IT2FIO
+;Bln-3370*;6170;50;charchoal;Italy;Lugo di Romagna;neolithic;Starnini 17;IT2LRO
+;Bln-3372;6320;60;;Italy;Faenza - Fornace Cappuccini ;neolithic;"(Conati B. & Silvestrini M., 2005; Skeates R., 1999-2000:";IT2FAFO
+;Bln-3373;6120;60;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;Bln-4431;6504;59;charcoal;Italy;Valer;neolithic;;IT2VAL
+;Bln-4432;6400;200;charcoal;Italy;Valer;neolithic;;IT2VAL
+;Bln-4436;6557;71;charcoal;Italy;Valer;neolithic;;IT2VAL
+;BM-2250R;6590;130;;Italy;Marcianese/Marchines;neolithic;"(Grifoni Cremonesi R., 1998; Skeates R., 2003):";IT2MARCI
+;BM-2260R;5180;140;;Italy;Cala Colombo ;neolithic;Fiorentino 13;IT2CAC
+;BM-2414;6520;70;;Italy;Santa Tecchia ;neolithic;Fiorentino 13;IT2STE
+27375;BM-2415;6490;150;;Italy;Fontanarosa Uliveto;neolithic;M�ller 1991, 354;﻿IT2FON
+27249;BM-2557;7780;320;seed/fruit;Italy;Coppa Nevigata;mesolithic;Carvalho 2008;﻿IT2COP
+27942;CAMS-2681;6890;60;seed/fruit;Italy;Ripa Tetta;neolithic;Manen 2019;IT2RIP
+;COL3012.1.1;8263;41;;Albania;Keputa;mesolithic;Hauc et al 2017;AL2KEP
+;COL3013.1.1;8579;42;;Albania;Keputa;mesolithic;Hauc et al 2017;AL2KEP
+;CRG-888;3380;65;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;CRG-929;4392;140;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;CRG-930;4487;115;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;DSA-728;6134;28;seed;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSA-729;6161;22;charchoal;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSA-733;6246;24;seed;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSA-734;6272;23;charcoal;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSA-737;6223;56;seed;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSH-299;6356;26;charcoal;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSH-300;6217;26;charcoal;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSH-301;6090;41;seed;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSH-302;6210;35;seed;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSH-349;6237;27;charcoal;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSH-461;5959;48;charchoal;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;DSH-462;5946;24;seed;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;Edera-?;6600;100;shell;Italy;Edera;mesolithic;;IT2EDE
+;ETH.121218;4185;70;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12182;4485;60;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12183;4280;65;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12184;3800;60;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12185;4155;60;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12186;3485;50;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12187;3445;55;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12189;4400;70;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12190;4025;65;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12191;2890;60;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12494;5440;55;bone;Italy;Isera la Torreta;neolithic;Montagnari;IT2ISER
+;ETH-12495;5580;65;bone;Italy;Isera la Torreta;neolithic;Montagnari;IT2ISER
+;ETH-12496;5570;55;bone;Italy;Isera la Torreta;neolithic;Montagnari;IT2ISER
+;ETH-12497;4410;70;bone;Italy;Acquaviva di Besenello;neolithic;;IT2ACQ
+;ETH-12498;4950;55;bone;Italy;Fiave I;neolithic;Montagnari;IT2FIAV
+;ETH-12913;3595;55;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;ETH-12914;2795;55;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+;Eth-21724;6080;65;;Italy;Carrara San Francesco ;neolithic;Fiorentino 13;IT2CRA
+;ETH-30051;5225;60;charcoal;Italy;Villandro;neolithic;;IT2VILA
+;ETH-30053;5425;60;charcoal;Italy;Villandro;neolithic;;IT2VILA
+;ETH-30057;6920;60;charcoal;Italy;Villandro;neolithic;;IT2VILA
+;ETH-30058;6050;60;charcoal;Italy;Villandro;neolithic;;IT2VILA
+;ETH-30059;6105;60;charcoal;Italy;Villandro;neolithic;;IT2VILA
+;ETH-6196;4070;70;bone;Italy;Remedello Sotto;neolithic;;IT2REME
+27833;ETH-8342;4560;65;;Italy;Oetzi;neolithic;--;IT2OTZ
+;ETH-8345;4555;35;organic;Austria;Similaun;neolithic;;AU2OZT
+27832;ETH-8345.1-2;4555;34;;Italy;Oetzi;Chalcolithic;;AU2OZT
+27383;F-30;5420;210;;Italy;Fossacesia;neolithic;RADON;IT2FOSSA
+28007;F-31;5110;210;charcoal;Italy;Ripoli;neolithic;--;IT2RIPOL
+27212;F-93;4920;210;charcoal;Italy;Catignano;neolithic;--;IT2CATI
+27384;Fi-30;5420;210;;Italy;Fossacesia;neolithic;R, 1973, v 15, p 484;IT2FOSSA
+;GAMS-8552;6060;30;;Italy;Trani  II Spiaggia di Colonna ;neolithic;Fiorentino 13;IT2TRA
+;Gif-;5540;100;;Italy;Grotta della Tartaruga di Lama Giotta ;neolithic;Fiorentino 13;IT2GTA
+27992;Gif-3766;5650;150;charcoal;Italy;Riparo Gaban;neolithic;Bagolini and Biagi 1987a, 428;﻿IT2GAB
+;Gif-6338;5290;90;;Italy;Scamuso ;neolithic;Fiorentino 13;IT2SCA
+;Gif-6339;7290;110;;Italy;Scamuso;neolithic;Fiorentino 13;IT2SCA
+;Gif-6722;6530;70;;Italy;Grotta Sant’Angelo ;neolithic;Fiorentino 13;IT2OST
+;Gif-6724;6890;70;seed;Italy;Grotta Sant’Angelo ;neolithic;;IT2OST
+;Gif-6725;6900;80;;Italy;Torre Canne ;neolithic;Fiorentino 13;IT2TCA
+;Gif-7054;5820;70;;Italy;Scamuso ;neolithic;Fiorentino 13;IT2SCA
+;Gif-7055;6810;80;;Italy;Scamuso;neolithic;Fiorentino 13;IT2SCA
+;Gif-7057;6040;70;;Italy;Scamuso ;neolithic;Fiorentino 13;IT2SCA
+;Gif-7345;6600;120;;Italy;Scamuso ;neolithic;Fiorentino 13;IT2SCA
+;Gif-7346;6320;80;;Italy;Scamuso ;neolithic;Fiorentino 13;IT2SCA
+;GrA-14106;8045;60;bone;Italy;Edera;mesolithic;;IT2EDE
+;GrA-14108;9930;50;charcoal;Italy;Edera;mesolithic;;IT2EDE
+27281;GrA-17112;8100;60;;Italy;Edera;mesolithic;Biagi 2002;IT2EDE
+;GrM-12416;6184;18;bone;Italy;Ostiano-Dugali Alt;neolithic;Biagi et al 2020;IT2OSTI
+;GrM-12418;6090;188;bone;Italy;Vho Campo Cerseole;neolithic;Biagi et al 2020;IT2CACE
+;GrM-12690;5895;35;bone;Italy;Vho Campo Cerseole;neolithic;Biagi et al 2020;IT2CACE
+;GrM-15257;6130;25;bone;Italy;Ostiano-Dugali Alt;neolithic;Biagi et al 2020;IT2OSTI
+;GrM-15259;6190;25;bone;Italy;Vho Campo Cerseole;neolithic;Biagi et al 2020;IT2CACE
+2327;GrN-10311;6560;40;charcoal;Croatia;Gudnja;neolithic;Muller 1991, 345;HR2GUD
+2323;GrN-10312;6415;40;charcoal;Croatia;Gudnja;neolithic;Muller 1991, 345;HR2GUD
+2324;GrN-10313;6520;40;charcoal;Croatia;Gudnja;neolithic;Muller 1991, 345;HR2GUD
+2325;GrN-10314;6935;50;charcoal;Croatia;Gudnja ;neolithic;Muller 1991, 345;HR2GUD
+2326;GrN-10315;7170;70;charcoal;Croatia;Gudnja ;neolithic;Muller 1991, 345;HR2GUD
+27282;GrN-11818;8250;50;charcoal;Italy;Edera;mesolithic;Biagi 2002;IT2EDE
+27283;GrN-14106;8045;40;bone;Italy;Edera;mesolithic;Biagi 2002;IT2EDE
+2451;GrN-15236;6980;160;charcoal;Croatia;Tinj-Podlivade;neolithic;Muller 1991, 345;HR2TIN
+2452;GrN-15237;6670;260;charcoal;Croatia;Tinj-Podlivade;neolithic;Muller 1991, 345;HR2TIN
+2453;GrN-15238;6280;210;charcoal;Croatia;Tinj-Podlivade;neolithic;Muller 1991, 345;HR2TIN
+;GrN-19838*;6690;180;bone;Italy;Fiorano;neolithic;Starnini 17;IT2FIO
+;GrN-19839*;6540;60;bone;Italy;Fiorano;neolithic;Starnini 17;IT2FIO
+;GrN-2056;9880;100;;Italy;Grotta Romanelli;mesolithic;Lo Vetro 2016;IT2GROROM
+;GrN-211818;8250;50;seed/fruit;Italy;Edera;mesolithic;;IT2EDE
+27284;GrN-23129;6590;100;charcoal;Italy;Edera;neolithic;Biagi 2001;IT2EDE
+;GrN-23130;9810;70;charcoal;Italy;Edera;mesolithic;;IT2EDE
+;GrN-23645;5850;80;charcoal;Italy;Isorella;neolithic;Starnini 17;IT2ISOR
+27286;GrN-25137;8060;70;charcoal;Italy;Edera;mesolithic;Biagi 2002;IT2EDE
+27287;GrN-25138;8110;90;charcoal;Italy;Edera;mesolithic;Biagi 2002;IT2EDE
+27288;GrN-25139;8350;120;charcoal;Italy;Edera;mesolithic;Biagi 2002;IT2EDE
+27289;GrN-25474;6480;40;marine shell;Italy;Edera;neolithic;Biagi 2002 questions marine reservoir correction;IT2EDE
+;GrN-8012;3610;60;charcoal;Italy;Monte Covolo;neolithic;;IT2MCOV
+27756;GrN-8013;4010;40;charcoal;Italy;Monte Covolo;neolithic;--;﻿IT2MCOV
+;Gx-18756;5305;90;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;GX-18757;6720;130;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;Gx-18758;5395;90;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;Gx-18759;3210;265;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;GX-19019;4680;325;charcoal;Italy;Edera;neolithic;;IT2EDE
+;GX-19020;5555;270;charcoal;Italy;Edera;neolithic;;IT2EDE
+;GX-19021;4695;165;charcoal;Italy;Edera;neolithic;;IT2EDE
+27290;GX-19022;6305;285;charcoal;Italy;Edera;neolithic;Biagi 2002;IT2EDE
+;GX-19567;6445;210;charcoal;Italy;Edera;neolithic;;IT2EDE
+27291;GX-19568;6615;390;charcoal;Italy;Edera;neolithic;Biagi 2002;IT2EDE
+27292;GX-19569;6700;120;charcoal;Italy;Edera;neolithic;Biagi 2002;IT2EDE
+;GX-21231;9495;50;charcoal;Italy;Palughetto;mesolithic;;IT2PALUG
+;GX-21788;9185;240;charcoal;Italy;Mondeval de Sora;mesolithic;;IT2MDS
+;GX-21797;8445;50;charcoal;Italy;Mondeval de Sora;mesolithic;;IT2MDS
+;Gx-22103;5880;105;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;Gx-22104;5130;145;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;Gx-23010;5230;95;wood;Italy;Palu di Livenza;neolithic;;IT2PAL
+;GX-27748;9160;90;charcoal;Italy;Mondeval de Sora;mesolithic;;IT2MDS
+;GXO-771;7670;120;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;GXO-772;7340;180;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;HAR-2710;5930;100;;Italy;Monte Maulo;neolithic;(G. Barker, 1995);IT2MOMAU
+2355;Hd-11733;6140;65;bone;Croatia;Medulin - Vižula;neolithic;Muller 1991, 345;HR2MED
+2447;Hd-11773;6740;55;bone;Croatia;Škarin Samograd;neolithic;Muller 1991, 345;HR2SKA
+2449;Hd-11885;6780;180;bone;Croatia;Škarin Samograd;neolithic;Muller 1991, 345;HR2SKA
+45682;Hd-11950;6780;50;bone;Croatia;Škarin Samograd;neolithic;Bonsall 2013;HR2SKA
+2247;Hd-11952;6600;110;;Croatia;Škarin Samograd;neolithic;RADON;HR2SKA
+2356;Hd-12093;6850;175;bone;Croatia;Medulin - Vižula;neolithic;Muller 1991, 345;HR2MED
+2448;Hd-12094;6750;55;bone;Croatia;Škarin Samograd;neolithic;Muller 1991, 345;HR2SKA
+2450;Hd-12269;6600;100;bone;Croatia;Škarin Samograd;neolithic;Muller 1991, 345;HR2SKA
+2412;Hd-12842;6290;65;seed/fruit;Croatia;Pokrovnik;neolithic;Muller 1991, 345;HR2POK
+;Hd-23489;6106;32;charcoal;;Pavia di Udine;neolithic;;IT2PAU
+;Hd-23518;5983;24;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;Hd-23536;6129;20;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;Hd-23544;6128;21;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;I-;6310;210;charcoal;Italy;Savignano;neolithic;Starnini 17;IT2SAV
+;I-11445;6170;110;charchoal;Italy;Vho di Piadena;neolithic;Starnini 17;IT2VHO
+;I-11816;4195;95;charcoal;Italy;Spilamberto;neolithic;;IT2SPILA
+;I-11817;4995;100;charcoal;Italy;Spilamberto;neolithic;;IT2SPILA
+;KIA-10287;6679;54;;Italy;Serra Cicora ;neolithic;Fiorentino 13;IT2SCI
+27993;KIA-10362;7283;38;charcoal;Italy;Riparo Gaban;neolithic;Gehlen 2010;﻿IT2GAB
+27994;KIA-10363;6968;41;charcoal;Italy;Riparo Gaban;mesolithic;Gehlen 2010;﻿IT2GAB
+27995;KIA-10364;7971;42;charcoal;Italy;Riparo Gaban;mesolithic;Gehlen 2010;﻿IT2GAB
+27996;KIA-10365;8323;63;charcoal;Italy;Riparo Gaban;mesolithic;Gehlen 2010;﻿IT2GAB
+27997;KIA-10366;7725;49;charcoal;Italy;Riparo Gaban;mesolithic;Gehlen 2010;﻿IT2GAB
+27998;KIA-10367;7902;55;charcoal;Italy;Riparo Gaban;mesolithic;Gehlen 2010;﻿IT2GAB
+27999;KIA-10368;8193;66;charcoal;Italy;Riparo Gaban;mesolithic;Gehlen 2010;﻿IT2GAB
+28000;KIA-10369;8509;44;charcoal;Italy;Riparo Gaban;mesolithic;Gehlen 2010;﻿IT2GAB
+28001;KIA-10370;8847;57;charcoal;Italy;Riparo Gaban;mesolithic;Gehlen 2010;﻿IT2GAB
+;KIA-13293;5648;34;;Italy;Serra  Cicora ;neolithic;Fiorentino 13;IT2SCI
+;KIA-13413;5864;47;;Italy;Le Macchie ;neolithic;Fiorentino 13;IT2LMA
+;KIA-13414;5783;39;;Italy;Balsignano ;neolithic;Fiorentino 13;IT2BAL
+35688;KIA-15283;5778;31;bone;Croatia;Monkodonja;neolithic;Hansel;HR2MON
+35690;KIA-15284;4977;33;bone;Croatia;Monkodonja;neolithic;Hansel;HR2MON
+;kiA-19424;4440;35;human bone;Montenegro;Gruda Boljevića;neolithic;forenbaher 18;MT2GRB
+35714;KIA-28984;4005;45;bone;Croatia;Monkodonja;neolithic;Hansel;HR2MON
+;KIA-30554;6038;31;charcoal;Italy;La Vela;neolithic;;IT2LAV
+;KIA-30555;5988;31;charcoal;Italy;La Vela;neolithic;;IT2LAV
+;KIA-30571;5843;36;charcoal;Italy;Le Corone;neolithic;;IT2LECO
+;KIA-30572;5966;33;charcoal;Italy;Le Corone;neolithic;;IT2LECO
+;KIA-30574;5889;33;charcoal;Italy;Le Corone;neolithic;;IT2LECO
+35719;KIA-33490;3885;30;bone;Croatia;Monkodonja;neolithic;Hansel;HR2MON
+;KIA-a;5508;50;;Italy;Balsignano ;neolithic;Fiorentino 13;IT2BAL
+;KIA-b;6565;29;;Italy;Balsignano ;neolithic;Fiorentino 13;IT2BAL
+;KIA-c;6602;30;;Italy;Balsignano ;neolithic;Fiorentino 13;IT2BAL
+;LJ-1448;6860;45;;Italy;Torre Sabea;neolithic;Fiorentino 13;IT2TSA
+27937;LJ-4548;7110;140;charcoal;Italy;Rendina;neolithic;M�ller 1994, 356;﻿IT2REND
+27938;LJ-4549;6760;100;charcoal;Italy;Rendina;neolithic;M�ller 1994, 356;﻿IT2REND
+27939;LJ-4550;6530;150;charcoal;Italy;Rendina;neolithic;M�ller 1994, 356;﻿IT2REND
+27940;LJ-4551;6900;150;charcoal;Italy;Rendina;neolithic;M�ller 1994, 356;﻿IT2REND
+28160;LJ-4649;6720;100;charcoal;Italy;Scaloria;neolithic;--;﻿IT2SCL
+28161;LJ-4650;6490;140;charcoal;Italy;Scaloria;neolithic;--;﻿IT2SCL
+28162;LJ-4651;6330;90;charcoal;Italy;Scaloria;neolithic;--;﻿IT2SCL
+28163;LJ-4980;6410;150;charcoal;Italy;Scaloria;neolithic;--;﻿IT2SCL
+28164;LJ-4981;6530;260;charcoal;Italy;Scaloria;neolithic;--;﻿IT2SCL
+;LJ-4982;9650;140;charcoal;Italy;Scaloria ;mesolithic;;IT2SCL
+28166;LJ-4983;6120;80;charcoal;Italy;Scaloria;neolithic;--;﻿IT2SCL
+;LJ5095;6400;80;;Italy;Scaloria ;neolithic;Fiorentino 13;IT2SCL
+28167;LJ-5095;6400;80;charcoal;Italy;Scaloria;neolithic;--;﻿IT2SCL
+28168;LJ-5096;6290;90;charcoal;Italy;Scaloria;neolithic;--;﻿IT2SCL
+28169;LJ-5097;6290;90;charcoal;Italy;Scaloria;neolithic;--;﻿IT2SCL
+;LJ-5098;9030;120;charcoal;Italy;Scaloria ;mesolithic;;IT2SCL
+;LJ-6670;6670;100;;Italy;Rendina;neolithic;;IT2REND
+;LTL-010A;5690;44;;Italy;Serra  Cicora ;neolithic;Fiorentino 13;IT2SCI
+;LTL-026A;6762;55;;Italy;Serra Cicora ;neolithic;Fiorentino 13;IT2SCI
+;LTL-029A;5531;52;;Italy;Serra  Cicora ;neolithic;Fiorentino 13;IT2SCI
+;LTL-033A;5591;44;;Italy;Serra  Cicora ;neolithic;Fiorentino 13;IT2SCI
+;LTL-048A;5665;30;;Italy;Carpignano  Salentino ;neolithic;Fiorentino 13;IT2CSA
+;LTL-1060A;6352;60;;Italy;Oria Sant’Anna  ;neolithic;Fiorentino 13;IT2OSA
+;-1061,00 LTL;6600;60;;Italy;Oria Sant’Anna ;neolithic;Fiorentino 13;IT2OSA
+;LTL-1062A;6442;50;;Italy;Oria Sant’Anna ;neolithic;Fiorentino 13;IT2OSA
+;LTL-1143A;5863;55;charcoal;;Pavia di Udine;neolithic;;IT2PAU
+;LTL-1144A;5761;65;charcoal;;Pavia di Udine;neolithic;;IT2PAU
+;LTL-1212A;6542;45;;Italy;Lama  Balice ;neolithic;Fiorentino 13;IT2LBA
+;LTL12390A;9442;60;charcoal;Italy;Collechio;mesolithic;;IT2COLLE
+;LTL-126A;5660;60;;Italy;Carpignano  Salentino ;neolithic;Fiorentino 13;IT2CSA
+;LTL-13694A;8139;45;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-13695A;8945;45;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-138A;5923;110;;Italy;Balsignano ;neolithic;Fiorentino 13;IT2BAL
+;LTL-139A;6148;45;;Italy;Balsignano ;neolithic;Fiorentino 13;IT2BAL
+;LTL-14024A;8605;60;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-140A;6523;45;;Italy;Balsignano ;neolithic;Fiorentino 13;IT2BAL
+;LTL-14119A;8433;50;charcoal;Italy;Casera Staulanza;mesolithic;;IT2CASTA
+;LTL-142A;7134;60;;Italy;Pulo di Molfetta;neolithic;Fiorentino 13;IT2PUL
+;LTL-145A;5686;37;;Italy;Serra  Cicora ;neolithic;Fiorentino 13;IT2SCI
+;LTL-14818A;8615;50;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-14921A;8788;55;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-1504A;6110;65;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-1508A;5942;70;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-157A;5575;55;;Italy;Serra  Cicora ;neolithic;Fiorentino 13;IT2SCI
+;LTL-15954A;8862;65;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-15955A;8868;65;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-15956A;7664;60;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-15957A;8492;60;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-15958A;8659;65;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-16669A;6678;50;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-16670A;6632;40;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+27943;LTL-16676A;6910;40;seed/fruit;Italy;Ripa Tetta;neolithic;Manen 2019;IT2RIP
+27944;LTL-16677A;6988;45;seed/fruit;Italy;Ripa Tetta;neolithic;Manen 2019;IT2RIP
+;LTL-1725A;6306;75;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;LTL-1727A;6277;45;;Italy;San Marco ;neolithic;Fiorentino 13;IT2SMA
+;LTL-17468A;9159;75;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-17586A;8452;45;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-17588A;9048;45;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-17589A;8351;45;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-18504A;8385;55;char;Italy;Seiser Alm;mesolithic;Kompatscher et al 2020;IT2SEAL
+;LTL-221A;6785;40;;Italy;Serra  Cicora ;neolithic;Fiorentino 13;IT2SCI
+;LTL-2657A;6562;50;;Italy;La Torretta ;neolithic;Fiorentino 13;IT2LTA
+;LTL-2658A;6385;50;;Italy;La Torretta ;neolithic;Fiorentino 13;IT2LTA
+;LTL-2659A;6320;50;;Italy;La Torretta ;neolithic;Fiorentino 13;IT2LTA
+;LTL-2715A;5822;45;;Italy;Valle Guarigli ;neolithic;Fiorentino 13;IT2VAG
+;LTL-2716A;6341;55;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;LTL-2717A;6551;40;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;LTL-2718A;6035;60;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;LTL-2719A;5746;45;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;LTL-2836A;5216;40;;Italy;Pulo di Molfetta ;neolithic;Fiorentino 13;IT2PUL
+;LTL-2961A;5728;45;;Italy;Casino San Matteo ;neolithic;Fiorentino 13;IT2CSM
+;LTL-2962A;5618;45;;Italy;Casino San Matteo ;neolithic;Fiorentino 13;IT2CSM
+;LTL3042A;4884;50;charcoal;Italy;Latsch;neolithic;Festi;IT2LATSCH
+;LTL3043A;5126;45;charcoal;Italy;Latsch;neolithic;Festi;IT2LATSCH
+;3044,00 LTL;5081;40;charcoal;Italy;Latsch;neolithic;Festi;IT2LATSCH
+;LTL3045A;4378;60;charcoal;Italy;Latsch;neolithic;Festi;IT2LATSCH
+;LTL3046A;4572;40;charcoal;Italy;Latsch;neolithic;Festi;IT2LATSCH
+;LTL-3810A;6764;60;bone ovis;Italy;Pulo di Molfetta;neolithic;;IT2PUL
+;LTL-4247A;6127;40;seed;;Pavia di Udine;neolithic;;IT2PAU
+;LTL-4249A;6112;45;seed;;Pavia di Udine;neolithic;;IT2PAU
+;LTL-4250A;6106;40;seed;;Pavia di Udine;neolithic;;IT2PAU
+;LTL-4252A;5743;45;seed;;Pavia di Udine;neolithic;;IT2PAU
+;LTL-4253A;6077;40;seed;;Pavia di Udine;neolithic;;IT2PAU
+;LTL-4254A;5560;45;seed;;Pavia di Udine;neolithic;;IT2PAU
+;LTL-427A;6739;60;;Italy;Porto Badisco ;neolithic;Fiorentino 13;ITPBA
+;LTL-437A;6334;50;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;LTL-438A;6417;55;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;LTL-4500A;6741;50;;Italy;Defensola ;neolithic;Fiorentino 13;IT2DEF
+;LTL-4536A;6983;50;bone ovis;Italy;Pulo di Molfetta;neolithic;;IT2PUL
+;LTL-4577A;6290;45;;Italy;Defensol ;neolithic;Fiorentino 13;IT2DEF
+;LTL-5187A;6576;45;;Italy;Palata ;neolithic;Fiorentino 13;IT2PAL
+;LTL-5188A;6561;50;;Italy;Palata ;neolithic;Fiorentino 13;IT2PAL
+;LTL6147A;9643;70;seed;Italy;Collechio;mesolithic;;IT2COLLE
+;LTL-620A;5018;60;;Italy;Mass. Stevanato ;neolithic;Fiorentino 13;IT2STE
+;LTL-621A;5244;55;;Italy;Mass. Stevanato ;neolithic;Fiorentino 13;IT2STE
+;LTL-622A;5190;35;;Italy;Mass.  Stevanato  ;neolithic;Fiorentino 13;IT2STE
+;LTL-623A;5115;50;;Italy;Mass. Stevanato;neolithic;Fiorentino 13;IT2STE
+;LTL-624A;5149;55;;Italy;Mass. Stevanato ;neolithic;Fiorentino 13;IT2STE
+;LTL-950A;6069;55;charcoal;;Pavia di Udine;neolithic;;IT2PAU
+;LTL-955A;6063;50;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-956A;6231;60;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-958A;5982;50;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-959A;6027;50;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-961A;5978;55;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-962A;6059;50;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-964A;6000;40;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-966A;5871;50;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;LTL-967A;6060;50;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;Ly-3896;6810;150;;Italy;Trasano;neolithic;;IT2TRA
+;Ly-3951(OxA);6840;35;seed;Italy;Trasano;neolithic;;IT2TRA
+;Ly-3955 (OxA);6935;40;seed;Italy;Trasano;neolithic;;IT2TRA
+;Ly-4002;6590;140;;Italy;Torre Sabea ;neolithic;Fiorentino 13;IT2TSA
+;Ly-4408;6710;270;;Italy;Trasano;neolithic;;IT2TRA
+;Ly-4409;6950;190;;Italy;Trasano;neolithic;;IT2TRA
+;Ly-4410;6830;190;;Italy;Trasano;neolithic;;IT2TRA
+;Ly-4975;5530;110;;Albania;Maliq;neolithic;;AL2MAL
+;Ly-5296;6950;150;;Italy;Trasano;neolithic;;IT2TRA
+;Ly-5297;7030;160;;Italy;Trasano;neolithic;;IT2TRA
+;Ly-5300;6940;270;;Italy;Trasano;neolithic;;IT2TRA
+;Lyon-3168;7460;40;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;Lyon-3169;7530;70;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;Lyon-3170;7400;60;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;Lyon-3172;7370;80;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;Lyon-3173;7310;110;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;Lyon-3174;8000;90;;Greece;Sidari;mesolithic;(Berger J.-F., et al., 2014);GR2SID
+;Lyon-3175;7470;90;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;Lyon-3175?;7480;70;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;Lyon-5633;7170;40;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;Lyon-5637;7500;60;;Greece;Sidari;neolithic;(Berger J.-F., et al., 2014);GR2SID
+;MC-2290;6850;130;;Italy;Villa Comunale di Foggia;neolithic;Fiorentino 13;IT2VCO
+;MC-2292;7125;50;;Italy;Mass. Giuffreda;neolithic;Fiorentino 13;IT2MAG
+;N-88066;6960;130;;Italy;Torre Sabea;neolithic;Fiorentino 13;IT2TSA
+28008;nd31;5100;120;;Italy;Ripoli;neolithic;--;IT2RIPOL
+2466;nd62;7000;120;;Croatia;Vela špilja;neolithic;Muller 1991, 345;HR2VES
+2467;nd69;7200;120;;Croatia;Vela špilja;neolithic;Muller 1991, 345;HR2VES
+;OxA- 5288;4090;65;;Italy;Riparo Cavallino Monte Covollo;neolithic;;IT2RIPCA
+;OxA-10013;6450;50;;Italy;Mass. Candelaro ;neolithic;Fiorentino 13;IT2MAC
+27254;OxA-10722;3825;45;antler;Italy;Craven Island, Venice Lagoon;Bronze Age;RADON;IT2VELAG
+28127;OxA-10772;6250;65;antler;Italy;San Francesco del Deserto Isl;Chalcolithic;RADON;IT2SFRANC
+;OxA-1206;4650;37;;Italy;Mass. Candelaro ;neolithic;Fiorentino 13;IT2MAC
+;OxA-12062;6638;34;;Italy;Mass. Candelaro ;neolithic;Fiorentino 13;IT2MAC
+;OxA-12063;6601;37;;Italy;Mass. Candelaro ;neolithic;Fiorentino 13;IT2MAC
+2277;OxA-14449;6284;40;bone;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+27250;OxA-1474;6850;80;seed/fruit;Italy;Coppa Nevigata;neolithic;Carvalho 2008;﻿IT2COP
+27251;OxA-1475;6880;90;seed/fruit;Italy;Coppa Nevigata;neolithic;Carvalho 2008;﻿IT2COP
+35577;OxA-15134;6602;37;bone;Slovenia;Mala Triglavca;neolithic;Mlekuz 2008;SI2MT
+35578;OxA-15135;8430;45;bone;Slovenia;Mala Triglavca;mesolithic;Mlekuz 2008;SI2MT
+35579;OxA-15136;7255;40;bone;Slovenia;Mala Triglavca;mesolithic;Mlekuz 2008;SI2MT
+35580;OxA-15137;7229;38;bone;Slovenia;Mala Triglavca;mesolithic;Mlekuz 2008;SI2MT
+35581;OxA-15138;8225;40;bone;Slovenia;Mala Triglavca;mesolithic;Mlekuz 2008;SI2MT
+35582;OxA-15139;6451;36;bone;Slovenia;Mala Triglavca;neolithic;Mlekuz 2008;SI2MT
+35583;OxA-15223;6647;37;bone;Slovenia;Mala Triglavca;neolithic;Mlekuz 2008;SI2MT
+2278;OxA-15680;5987;35;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2279;OxA-15681;6180;34;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2280;OxA-15764;6226;37;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2281;OxA-15765;6245;39;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2413;OxA-17124;6197;39;seed/fruit;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2414;OxA-17125;6568;36;seed/fruit;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2282;OxA-17126;6237;37;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2415;OxA-17193;6625;36;seed/fruit;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2416;OxA-17194;6999;37;seed/fruit;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2417;OxA-17195;6626;39;seed/fruit;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2283;OxA-17196;6212;35;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2284;OxA-17197;6121;37;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2285;OxA-17198;6093;36;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2286;OxA-17199;6103;37;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2287;OxA-17200;6161;36;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2418;OxA-17223;6170;35;seed/fruit;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2288;OxA-17224;6083;35;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2419;OxA-17328;6810;40;seed/fruit;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2289;OxA-17329;6204;38;seed/fruit;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+;OxA-18023;9315;45;charcoal;Croatia;Ovčja peć;mesolithic;Forenbaher 2013;HR2OVC
+;OxA-18024;9310;45;charcoal;Croatia;Ovčja peć;mesolithic;Forenbaher 2013;HR2OVC
+;OxA-18025;9115;45;charcoal;Croatia;Jačmica;mesolithic;;HR2JAC
+2430;OxA-18027;6190;36;charcoal;Croatia;Pupićina peč;neolithic;Forenbaher 2013;HR2PUP
+;OxA-18041;9805;50;charcoal;Croatia;Vela peć Lošinj;mesolithic;Forenbaher 2013;HR2VLO
+2461;OxA-18118;7134;37;charcoal;Croatia;Vela peć Lošinj;neolithic;Forenbaher 2013;HR2VLO
+2432;OxA-18119;6516;36;charcoal;Croatia;Pupićina peč;neolithic;Forenbaher 2013;HR2PUP
+2357;OxA-18120;7050;37;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2358;OxA-18121;6982;36;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2359;OxA-18122;6975;37;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2360;OxA-18123;6711;36;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2361;OxA-18124;6609;37;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2362;OxA-18125;6236;35;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2363;OxA-18126;6117;34;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2364;OxA-18127;6004;34;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2433;OxA-18128;6606;36;charcoal;Croatia;Pupićina peč;neolithic;Forenbaher 2013;HR2PUP
+;OxA-18170;9494;39;charcoal;Croatia;Vela peć Lošinj;mesolithic;Forenbaher 2013;HR2VLO
+2459;OxA-18171;8110;37;bone;Croatia;Vela špilja;mesolithic;Forenbaher 2013;HR2VES
+2339;OxA-18172;5686;33;bone;Croatia;Kargadur;neolithic;Forenbaher 2013;HR2KAR
+2365;OxA-18173;5631;31;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2366;OxA-18174;5547;33;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2367;OxA-18175;5190;30;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2368;OxA-18176;5357;30;charcoal;Croatia;Nakovana;neolithic;Forenbaher 2013;HR2NAK
+2321;OxA-18177;5867;31;bone;Croatia;Grapčeva špilja;neolithic;Forenbaher 2013;HR2GRA
+2322;OxA-18178;5796;30;bone;Croatia;Grapčeva špilja;neolithic;Forenbaher 2013;HR2GRA
+2434;OxA-18179;5077;30;charcoal;Croatia;Pupićina peč;neolithic;Forenbaher 2013;HR2PUP
+2435;OxA-18180;3963;27;charcoal;Croatia;Pupićina peč;neolithic;Forenbaher 2013;HR2PUP
+2329;OxA-18181;6191;31;charcoal;Croatia;Jačmica;neolithic;Forenbaher 2013;HR2JAC
+2330;OxA-18182;5263;31;charcoal;Croatia;Jačmica;neolithic;Forenbaher 2013;HR2JAC
+2331;OxA-18183;5325;29;charcoal;Croatia;Jačmica;neolithic;Forenbaher 2013;HR2JAC
+2385;OxA-18184;5252;29;charcoal;Croatia;Novačka;neolithic;Forenbaher 2013;HR2NOV
+2386;OxA-18185;5100;29;charcoal;Croatia;Novačka;neolithic;Forenbaher 2013;HR2NOV
+2463;OxA-18229;5409;33;charcoal;Croatia;Vela peć Istria;neolithic;Forenbaher 2013;HR2VIS
+28128;OxA-1851;6270;70;seed/fruit;Italy;San Marco;neolithic;Carvalho 2008;﻿IT2SMA
+28129;OxA-1852;6245;90;seed/fruit;Italy;San Marco;neolithic;biagi 2002;﻿IT2SMA
+28130;OxA-1853;6430;80;seed/fruit;Italy;San Marco;neolithic;Carvalho 2008;﻿IT2SMA
+28131;OxA-1854;6120;90;seed/fruit;Italy;San Marco;neolithic;Carvalho 2008;﻿IT2SMA
+28132;OxA-1855;5750;70;bone;Italy;San Marco;neolithic;--;﻿IT2SMA
+;OxA-19732;6016;31;seed;Italy;Villandro;neolithic;;IT2VILA
+;OxA-19733;6038;32;seed;Italy;Villandro;neolithic;;IT2VILA
+;OxA-19735;6212;32;seed;Italy;Lugo di Romagna;neolithic;Starnini 17;IT2LRO
+;OxA-19736;6213;33;seed;Italy;Lugo di Romagna;neolithic;Starnini 17;IT2LRO
+;OxA-19737;6183;33;seed;Italy;Isorella;neolithic;Starnini 17;IT2ISOR
+;OxA-20830;9445;45;charcoal;Croatia;Vela peć Istria;mesolithic;Forenbaher 2013;HR2VIS
+2340;OxA-21092;6792;33;seed/fruit;Croatia;Kargadur;neolithic;Forenbaher 2013;HR2KAR
+2341;OxA-21093;6612;32;seed/fruit;Croatia;Kargadur;neolithic;Forenbaher 2013;HR2KAR
+;OxA-21358;6122;38;seed;Italy;Vho Campo Cerseole;neolithic;Biagi et al 2020;IT2CACE
+;OxA-23133;5850;34;seed;Italy;Isorella;neolithic;Starnini 17;IT2ISOR
+;OxA-23311;9775;45;bone;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;OxA-23312;9785;45;bone;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;OxA-23313;11755;55;bone;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;OxA-23314;9665;45;bone;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;OxA-23343;11790;50;bone;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;OxA-23344;7595;34;bone;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;OxA-23345;8870;37;bone;Montenegro;Crvena stjena;mesolithic;Mercier;MT2CRV
+;OxA-23350;5476;33;human bone;BiH;Zelena pećina;neolithic;Vander Linder;BIH2ZEL
+;OxA-23351;5410;31;human bone;BiH;Zelena pećina;neolithic;Vander Linder;BIH2ZEL
+;OxA-23532;4083;23;bone;BiH;Lazaruša;neolithic;Vander Linder;BIH2LAZ
+;OxA-23533;4105;29;bone;BiH;Lazaruša;neolithic;Vander Linder;BIH2LAZ
+;OxA-23534;5402;34;bone;BiH;Lazaruša;neolithic;Vander Linder;BIH2LAZ
+;OxA-23535;5513;32;bone;BiH;Lazaruša;neolithic;Vander Linder;BIH2LAZ
+;OxA-23536;5328;32;bone;BiH;Hateljska Pećina;neolithic;Vander Linder;BIH2HAT
+;OxA-23537;5746;33;bone;BiH;Hateljska Pećina;neolithic;Vander Linder;BIH2HAT
+;OxA-23538;5788;33;bone;BiH;Hateljska Pećina;neolithic;Vander Linder;BIH2HAT
+;OxA-23539;5769;33;bone;BiH;Hateljska Pećina;neolithic;Vander Linder;BIH2HAT
+;OxA-23599;6437;35;bone;BiH;Žukovička Pečina;neolithic;Vander Linder;BIH2ZUK
+;OxA-23600;6466;44;bone;BiH;Žukovička Pečina;neolithic;Vander Linder;BIH2ZUK
+;OxA-2504-57;6090;55;bone;Italy;Vho Campo Cerseole;neolithic;Biagi et al 2020;IT2CACE
+;OxA-27418;6127;35;bone;Italy;Vho Campo Cerseole;neolithic;Biagi et al 2020;IT2CACE
+;OxA-27790;8040;34;tooth;Montenegro;Odmut Cave;mesolithic;Boric, firistlipovic, ch;MT2ODM
+;OxA-28274;6969;33;harpoon;Montenegro;Vruća;mesolithic;Boric, firistlipovic, ch;MT2VRU
+;OxA-31133;8200;45;tool;Montenegro;Vruća;mesolithic;Boric, firistlipovic, ch;MT2VRU
+;OxA-32282;6902;35;harpoon;Montenegro;Vruća;mesolithic;Boric, firistlipovic, ch;MT2VRU
+;OxA-32283;7757;38;bone(harpoon);Montenegro;Odmut Cave;mesolithic;Boric, firistlipovic, ch;MT2ODM
+;OxA-32862;7923;39;seed;Montenegro;Odmut Cave;mesolithic;Boric, firistlipovic, ch;MT2ODM
+;OxA-3371;4660;55;organic;Austria;Similaun;neolithic;;AUOTZ
+;OxA-3372;4565;60;organic;Austria;Similaun;neolithic;;AU2OZT
+;OxA-3373;4550;70;organic;Austria;Similaun;neolithic;;AU2OTZ
+;OxA-3374;4460;80;organic;Austria;Similaun;neolithic;;AU2OTZ
+;OxA-3375;4530;70;organic;Austria;Similaun;neolithic;;AU2OTZ
+;OxA-3376;4450;80;organic;Austria;Similaun;neolithic;;AU2OTZ
+27840;OxA-3419;4540;55;skin;Austria;Similaun;neolithic;--;AU2OTZ
+27841;OxA-3420;4530;70;bone;Austria;Similaun;neolithic;--;AU2OTZ
+27842;OxA-3421;4480;55;skin;Italy;Similaun;neolithic;--;AU2OTZ
+;OxA-34966;7980;50;bone(harpoon);Montenegro;Odmut Cave;mesolithic;Boric, firistlipovic, ch;MT2ODM
+;OxA-35001;7035;36;bone(harpoon);Montenegro;Odmut Cave;mesolithic;Boric, firistlipovic, ch;MT2ODM
+;OxA-35002;8207;39;bone(harpoon);Montenegro;Odmut Cave;mesolithic;Boric, firistlipovic, ch;MT2ODM
+;OxA-35003;7770;40;bone(harpoon);Montenegro;Odmut Cave;mesolithic;Boric, firistlipovic, ch;MT2ODM
+;OxA-35333;6290;34;bone;Italy;Isorella;neolithic;Biagi et al 2020;IT2ISOR
+27701;OxA-3683;6200;95;bone;Italy;Masseria Candelaro;neolithic;Oxford Datelist 19;﻿IT2MAC
+27702;OxA-3684;6640;95;bone;Italy;Masseria Candelaro;neolithic;Oxford Datelist 19;﻿IT2MAC
+27703;OxA-3685;6510;95;bone;Italy;Masseria Candelaro;neolithic;Oxford Datelist 19;﻿IT2MAC
+28003;OxA-3746;3860;80;bone;Italy;Riparo Monte Covolo;Chalcolithic;Oxford Datelist 19;﻿IT2MCOV
+27690;OxA-4546;5230;70;charcoal;Italy;Manerba;Chalcolithic;RADON;IT2MANEB
+27691;OxA-4547;4040;60;seed/fruit;Italy;Manerba;Chalcolithic;RADON;IT2MANEB
+27692;OxA-4548;4105;65;seed/fruit;Italy;Manerba;Chalcolithic;RADON;IT2MANEB
+27693;OxA-4549;4265;70;seed/fruit;Italy;Manerba;Chalcolithic;RADON;IT2MANEB
+27694;OxA-4550;4320;100;bone;Italy;Manerba;Chalcolithic;RADON;IT2MANEB
+;OxA-4595;4265;70;;Italy;Manebra;neolithic;;IT2MANEB
+28134;OxA-4817;4775;65;charcoal;Italy;San Marco, Venice;Chalcolithic;RADON;IT2SNMC
+27374;OxA-5022;4065;75;wood;Italy;Fondo Paviani;Chalcolithic;Oxford Datelist;﻿IT2FOP
+27757;OxA-5286;4060;60;bone;Italy;Monte Covolo;Chalcolithic;45.34 E, 10.35 E;﻿IT2MCOV
+27758;OxA-5287;4245;65;bone;Italy;Monte Covolo;Chalcolithic;45.34 E, 10.35 E;﻿IT2MCOV
+27759;OxA-5288;4090;65;bone;Italy;Monte Covolo;Chalcolithic;45.34 E, 10.35 E;﻿IT2MCOV
+28286;OxA-5895;4610;50;miscellaneous;Italy;Venice Laguna;Chalcolithic;RADON;IT2VELAG
+28287;OxA-5896;5315;55;miscellaneous;Italy;Venice Laguna;Chalcolithic;RADON;IT2VELAG
+27778;OxA-651;6540;80;bone;Italy;Monte Maulo;neolithic;--;﻿IT2MOMAU
+27779;OxA-652;6280;70;bone;Italy;Monte Maulo;neolithic;--;﻿IT2MOMAU
+27780;OxA-653;6210;70;bone;Italy;Monte Maulo;neolithic;--;﻿IT2MOMAU
+27781;OxA-654;5840;70;bone;Italy;Monte Maulo;neolithic;Oxford Datelist 5;﻿IT2MOMAU
+27782;OxA-655;5580;70;bone;Italy;Monte Maulo;neolithic;Oxford Datelist 5;﻿IT2MOMAU
+28024;OxA-6771;4495;60;antler;Italy;S. Francesco del Deserto;Chalcolithic;RADON;IT2SFRANC
+27725;OxA-7468;7425;55;bone;Italy;Mondeval de Sora;mesolithic;RADON;﻿IT2MDS
+27537;OxA-7594;6345;45;charcoal;Italy;Grotta S. Croce Cave;Chalcolithic;RADON;﻿IT2GSC
+27538;OxA-7595;6375;50;charcoal;Italy;Grotta S. Croce Cave;Chalcolithic;RADON;﻿IT2GSC
+27539;OxA-7596;6555;50;seed/fruit;Italy;Grotta S. Croce Cave;Chalcolithic;RADON;﻿IT2GSC
+2436;OxA-8471;6495;60;;Croatia;Pupićina peč;neolithic;RADON;HR2PUP
+;OxA-9988;6605;45;;Italy;Mass. Candelaro ;neolithic;Fiorentino 13;IT2MAC
+;OxA-9989;6510;45;;Italy;Mass. Candelaro ;neolithic;Fiorentino 13;IT2MAC
+;OxA-9990;6555;45;;Italy;Mass. Candelaro ;neolithic;Fiorentino 13;IT2MAC
+;OZB-653;8115;92;human bone;Italy;Piancada;mesolithic;;IT2PIA
+;OZB-654;5869;71;charcoal;Italy;Piancada;neolithic;;IT2PIA
+;OZB-948;6410;70;charcoal;Italy;Piancada;neolithic;;IT2PIA
+;OZB-949;6280;80;charcoal;Italy;Piancada;neolithic;;IT2PIA
+;OZB-950;6240;80;charcoal;Italy;Piancada;neolithic;;IT2PIA
+;OZC-209;5940;70;charcoal;Italy;Piancada;neolithic;;IT2PIA
+;OZC-210;6060;60;charcoal;Italy;Piancada;neolithic;;IT2PIA
+;OZC-211;6330;50;human bone;Italy;Piancada;neolithic;;IT2PIA
+;Pi-101;6578;135;;Italy;Villaggio Leopardi;neolithic;"B., et al., 1991; Hameau P., 1987; Manfredini A., et al., 2005; Skeates R., 2003):";IT2VILEO
+;Poz-13233;5780;40;bone;Slovenia;Trhlovca;neolithic;Mlekuz 2005;SI2TRH
+;Poz-13343;8250;50;charcoal;Italy;La Mosse;mesolithic;;IT2LAMOSS
+;Poz-13344;9220;50;charcoal;Italy;La Mosse;mesolithic;;IT2LAMOSS
+;Poz-14231;6025;30;bone;Slovenia;Trhlovca;neolithic;Mlekuz 2005;SI2TRH
+35584;Poz-14232;7630;50;bone;Slovenia;Mala Triglavca;mesolithic;Mlekuz 2008;SI2MT
+35585;Poz-14241;8210;50;bone;Slovenia;Mala Triglavca;mesolithic;Mlekuz 2008;SI2MT
+35586;Poz-14243;5980;40;bone;Slovenia;Mala Triglavca;neolithic;Mlekuz 2008;SI2MT
+35587;Poz-14244;8020;50;bone;Slovenia;Mala Triglavca;mesolithic;Mlekuz 2008;SI2MT
+35588;Poz-14245;8070;50;bone;Slovenia;Mala Triglavca;mesolithic;Mlekuz 2008;SI2MT
+;Poz-14335;7260;50;bone;Slovenia;Trhlovca;mesolithic;Mlekuz 2005;SI2TRH
+;Poz-14337;4145;35;bone;Slovenia;Trhlovca;neolithic;Mlekuz 2005;SI2TRH
+35590;Poz-16341;7950;50;bone;Slovenia;Mala Triglavca;mesolithic;Mlekuz 2008;SI2MT
+35591;Poz-16342;5120;40;bone;Slovenia;Mala Triglavca;neolithic;Mlekuz 2008;SI2MT
+;Poz-18393;6925;35;bone;Croatia;Crno Vrilo;neolithic;Marjanovic 09;HR2CRN
+;Poz-18395;6900;40;bone;Croatia;Crno Vrilo;neolithic;Marjanovic 09;HR2CRN
+35592;Poz-21395;6320;40;pottery;Slovenia;Mala Triglavca;neolithic;Mlekuz 2005;SI2MT
+;Poz-8050;4490;40;bone;Slovenia;Acijev spodmol;neolithic;Mlekuz 2005;SI2ACI
+;Poz-8051;5620;40;bone;Slovenia;Acijev spodmol;neolithic;Mlekuz 2005;SI2ACI
+;Poz-8052;5910;60;bone;Slovenia;Acijev spodmol;neolithic;Mlekuz 2005;SI2ACI
+;Poz-8053;6610;40;bone;Slovenia;Podmol;neolithic;Mlekuz 2005;SI2PPK
+;Poz-8054;6640;50;bone;Slovenia;Podmol;neolithic;Mlekuz 2005;SI2PPK
+;Poz-8055;6450;40;bone;Slovenia;Podmol;neolithic;Mlekuz 2005;SI2PPK
+;Poz-8056;6440;50;bone;Slovenia;Podmol;neolithic;Mlekuz 2005;SI2PPK
+;Poz-8057;6450;50;bone;Slovenia;Podmol;neolithic;Mlekuz 2005;SI2PPK
+;Poz-8059;6340;40;bone;Slovenia;Podmol;neolithic;Mlekuz 2005;SI2PPK
+;Poz-8060;6240;50;bone;Slovenia;Podmol;neolithic;Mlekuz 2005;SI2PPK
+2468;Poz-90130;8110;50;tooth;Croatia;Vela špilja;mesolithic;;HR2VES
+;Poz-9919;9410;50;charcoal;Italy;Cassera Lisandri;mesolithic;;IT2CALISS
+2258;PSU-3701;5975;15;bone;Croatia;Čista Mala - Velištak;neolithic;McClure 2014;HR2CIS
+2259;PSU-3702;5920;15;bone;Croatia;Čista Mala - Velištak;neolithic;McClure 2014;HR2CIS
+2420;PSU-4960;6280;20;bone;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2421;PSU-4961;6840;25;bone;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2260;PSU-5288;6045;25;bone;Croatia;Čista Mala - Velištak;neolithic;McClure 2014;HR2CIS
+2261;PSU-5289;5935;20;bone;Croatia;Čista Mala - Velištak;neolithic;McClure 2014;HR2CIS
+2290;PSU-5290;6155;25;bone;Croatia;Danilo-Bitinj;neolithic;McClure 2014;HR2DAN
+2344;PSU-5291;6655;25;bone;Croatia;Konjevrate;neolithic;McClure 2014;HR2KON
+2347;PSU-5292;6300;25;bone;Croatia;Krivače;neolithic;McClure 2014;HR2KRIV
+2422;PSU-5293;7090;25;bone;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2423;PSU-5294;6190;25;bone;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2424;PSU-5556;6975;30;bone;Croatia;Pokrovnik;neolithic;McClure 2014;HR2POK
+2345;PSU-5557;6175;30;bone;Croatia;Konjevrate;neolithic;McClure 2014;HR2KON
+2348;PSU-5558;6115;30;bone;Croatia;Krivače;neolithic;McClure 2014;HR2KRIV
+2262;PSU-5563;5903;11;bone;Croatia;Čista Mala - Velištak;neolithic;McClure 2014;HR2CIS
+;PSU-5612;7060;25;bone;Croatia;Rašinovac;neolithic;McClure 2014;HR2RAS
+2349;PSU-5613;6270;20;bone;Croatia;Krivače;neolithic;McClure 2014;HR2KRIV
+2350;PSU-5614;6285;20;bone;Croatia;Krivače;neolithic;McClure 2014;HR2KRIV
+2351;PSU-5615;6290;20;bone;Croatia;Krivače;neolithic;McClure 2014;HR2KRIV
+2263;PSU-5616;5945;20;bone;Croatia;Čista Mala - Velištak;neolithic;McClure 2014;HR2CIS
+27429;R-1037;4160;50;charcoal;Italy;Grotta dei Ciclami;neolithic;Rome Datelist XVI;IT2CIC
+27430;R-1038;6290;130;charcoal;Italy;Grotta dei Ciclami;neolithic;Rome Datelist XVI;IT2CIC
+27431;R-1040a;6300;60;charcoal;Italy;Grotta dei Ciclami;neolithic;Rome Datelist XVI;IT2CIC
+27432;R-1041;8260;60;charcoal;Italy;Grotta dei Ciclami;mesolithic;Rome Datelist XVI;IT2CIC
+27411;R-1042;7230;240;bone;Italy;Grotta Benussi;mesolithic;Biagi 2002;IT2BEN
+27412;R-1043;7050;60;charcoal;Italy;Grotta Benussi;mesolithic;Biagi 2002;IT2BEN
+27413;R-1044;7620;150;charcoal;Italy;Grotta Benussi;mesolithic;Biagi 2002;IT2BEN
+27414;R-1045;8380;60;charcoal;Italy;Grotta Benussi;mesolithic;Biagi 2002;IT2BEN
+27415;R-1045A;8650;70;;Italy;Grotta Benussi;mesolithic;Biagi 2002;IT2BEN
+27213;R-1100;5965;50;;Italy;Catignano;neolithic;--;IT2CATI
+27214;R-1101a;6080;70;;Italy;Catignano;neolithic;--;IT2CATI
+27215;R-1102;6000;70;;Italy;Catignano;neolithic;--;IT2CATI
+;R-1136;6480;50;;Italy;Romagnano;neolithic;;IT2ROM
+;R-1137;7850;60;;Italy;Romagnano;mesolithic;;IT2ROM
+;R-1137A;7500;160;;Italy;Romagnano;mesolithic;;IT2ROM
+;R-1137B;7800;80;;Italy;Romagnano;mesolithic;;IT2ROM
+27956;R-1148;6870;50;charcoal;Italy;Riparo di Pradestel;mesolithic;Gehlen 2010;﻿IT2PRA
+27957;R-1149;8200;50;charcoal;Italy;Riparo di Pradestel;mesolithic;Gehlen 2010;﻿IT2PRA
+27958;R-1150;8240;200;charcoal;Italy;Riparo di Pradestel;mesolithic;Gehlen 2010;﻿IT2PRA
+;R-1151;9320;50;;Italy;Pradestel;mesolithic;;IT2PRA
+;R-1225;5850;55;;Italy;Porto Badisco ;neolithic;Fiorentino 13;ITPBA
+;R-1394;6620;80;;Italy;Lama Lite;mesolithic;"(Ferrari A., et al., 2001; Ferrari A. & Steffè G., 2006; Skeates";IT2LALI
+27216;R-1420a;6125;70;;Italy;Catignano;neolithic;--;IT2CATI
+27217;R-1421a;5915;65;;Italy;Catignano;neolithic;--;IT2CATI
+27218;R-1422a;5995;70;;Italy;Catignano;neolithic;--;IT2CATI
+27296;R-1544a;6050;90;charcoal;Italy;Fagnigola;neolithic;Facchinetti 2012;IT2FAG
+27297;R-1545a;5760;160;charcoal;Italy;Fagnigola;neolithic;Facchinetti 2012;IT2FAG
+27219;R-1777;5910;65;;Italy;Catignano;neolithic;--;IT2CATI
+27220;R-1778;6040;70;;Italy;Catignano;neolithic;--;IT2CATI
+27232;R-185;4390;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+;R-1850;11000;125;charcoal;Italy;Riparo di Biarzo;mesolithic;Vai et al 2015;IT2BIA
+;R1851;5600;300;charcoal;Italy;Riparo di Biarzo;neolithic;Vai et al 2015;IT2BIA
+27233;R-186;4310;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+27234;R-187;4320;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+27235;R-188;4500;75;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+27236;R-189;4420;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+27237;R-190;4550;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+27238;R-191;4550;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+27239;R-192;4500;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+27240;R-193;4620;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+;R-1938;3160;40;human bone;Italy;Mondeval de Sora;neolithic;;IT2MDS
+27241;R-194;4490;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+;R-1940;3010;45;human bone;Italy;Mondeval de Sora;neolithic;;IT2MDS
+27242;R-195;4490;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+27243;R-196;4560;70;bone;Italy;Conelle di Arcevia;Chalcolithic;--;IT2CONA
+;R-2313;6100;170;;Italy;Faenza - Fornace Cappuccini ;neolithic;"(Conati B. & Silvestrini M., 2005; Skeates R., 1999-2000:";IT2FAFO
+;R-2314;6280;80;;Italy;Faenza - Fornace Cappuccini ;neolithic;"(Conati B. & Silvestrini M., 2005; Skeates R., 1999-2000:";IT2FAFO
+27298;R-2530;6570;75;charcoal;Italy;Fagnigola;neolithic;Facchinetti 2012;IT2FAG
+27299;R-2538;6545;70;charcoal;Italy;Fagnigola;neolithic;Facchinetti 2012;IT2FAG
+27300;R-2539;6540;70;charcoal;Italy;Fagnigola;neolithic;Facchinetti 2012;IT2FAG
+;R-2545;6535;75;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2547;6570;74;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;R-2548;6513;70;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2549;6525;55;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+27301;R-2550;6570;75;charcoal;Italy;Fagnigola;neolithic;Facchinetti 2012;IT2FAG
+27302;R-2551;6483;74;charcoal;Italy;Fagnigola;neolithic;Facchinetti 2012;IT2FAG
+27303;R-2554;6548;85;charcoal;Italy;Fagnigola;neolithic;Facchinetti 2012;IT2FAG
+;R-2574;6570;74;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2705;6751;108;charcoal;Italy;Piancada;neolithic;;IT2PIA
+;R-2733;6028;46;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2734;6170;57;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;R-2735;6068;53;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2736;5684;58;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;R-2743;6170;57;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2745;6524;76;charcoal;Italy;Lugo di Grezzana;neolithic;Starnini 17;IT2LGR
+;R-2746*;6161;39;charchoal;Italy;Lugo di Romagna;neolithic;Starnini 17;IT2LRO
+;R-2747*;6626;110;charchoal;Italy;Lugo di Romagna;neolithic;Starnini 17;IT2LRO
+;R-2748*;6585;87;charchoal;Italy;Lugo di Romagna;neolithic;Starnini 17;IT2LRO
+;R-2763;5684;58;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2920;5739;47;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2930;5770;57;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2931;5856;49;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2934;5819;55;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2935;5801;68;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;R-2937;5867;54;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-2945;5801;68;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-3136;5993;59;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-3137;5973;57;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-3139;5906;55;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;R-3140;5973;58;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-3141;5713;54;charcoal;Italy;Sammardenchia;neolithic;;IT2SAM
+;R-3142;5963;76;charcoal;Italy;Sammmardenchia;neolithic;;IT2SAM
+;R-321;5550;80;;Italy;Oria Sant’Anna ;neolithic;Fiorentino 13;IT2OSA
+;R-322;6780;90;;Italy;Oria Sant’Anna ;neolithic;Fiorentino 13;IT2OSA
+28171;R-349;5480;70;carbonate;Italy;Scaloria;neolithic;Rome Datelist VII;﻿IT2SCL
+28296;R-350;7000;100;charcoal;Italy;Villagio Scaramella;neolithic;Rome Datelist VII;﻿IT2SCM
+28297;R-351;6540;65;charcoal;Italy;Villagio Scaramella;neolithic;Rome Datelist VII;﻿IT2SCM
+27627;R-359A;4580;50;wood;Italy;Lago di Fimona;Bronze Age;Rome Datelist X;﻿IT2FMC
+27230;R-458;6000;200;charcoal;Italy;Chiozza di Scandiano;neolithic;Rome Datelist VIII;IT2CHS
+28272;R-487A;7250;110;charcoal;Italy;Vatte di Zambana;mesolithic;Rome Datelist VII;It2VDZ
+28273;R-488;7540;75;charcoal;Italy;Vatte di Zambana;mesolithic;Rome Datelist VII;﻿IT2VDZ
+28274;R-488A;7585;75;charcoal;Italy;Vatte di Zambana;mesolithic;Rome Datelist VII;﻿IT2VDZ
+28275;R-489;7860;75;charcoal;Italy;Vatte di Zambana;mesolithic;Rome Datelist VII;﻿IT2VDZ
+28276;R-489A;7810;95;charcoal;Italy;Vatte di Zambana;mesolithic;Rome Datelist VII;﻿IT2VDZ
+28277;R-490;7860;110;charcoal;Italy;Vatte di Zambana;mesolithic;Rome Datelist VII;﻿IT2VDZ
+28278;R-490A;7740;150;charcoal;Italy;Vatte di Zambana;mesolithic;Rome Datelist VII;﻿IT2VDZ
+28279;R-491;8000;110;charcoal;Italy;Vatte di Zambana;mesolithic;Rome Datelist VII;﻿IT2VDZ
+28280;R-491A;7740;150;charcoal;Italy;Vatte di Zambana;mesolithic;Rome Datelist VII;﻿IT2VDZ
+;R-54;9050;100;charcoal;Italy;Grotta Romanelli;mesolithic;Lo Vetro 2016;IT2GROROM
+27945;R-598;6210;75;charcoal;Italy;Ripabianca di Monter;neolithic;Biagi 2002;﻿IT2RIPMO
+27946;R-598A;6140;70;charcoal;Italy;Ripabianca di Monter;neolithic;M�ller 1991, 354;﻿IT2RIPMO
+;R-599;6260;85;;Italy;Ripabianca di Monterad;neolithic;"(Alessio M., et al., 1970: 603; Bagolini";IT2RIPMO
+27947;R-599A;6260;85;charcoal;Italy;Ripabianca di Monter;neolithic;M�ller 1991, 354;﻿IT2RIPMO
+;R-600;5555;75;charcoal;Italy;Villandro;neolithic;;IT2VILA
+;R-643;6580;75;;Italy;Maddalena di Muccia;neolithic;"(Alessio M., et al., 1970: 604;";IT2MAUC
+27688;R-643a;6580;75;charcoal;Italy;Maddalena di Muccia;neolithic;M�ller 1991, 354;﻿IT2MAUC
+;R-645;9990;190;;Italy;Grotta del Prete;mesolithic;Spataro;IT2GRPRET
+28009;R-664;5630;80;charcoal;Italy;Ripoli;neolithic;Rome Datelist IX;IT2RIPOL
+28010;R-665;5560;150;charcoal;Italy;Ripoli;neolithic;Rome Datelist IX;IT2RIPOL
+27224;R-720;4640;50;charcoal;Italy;Cava Due Madonne;Chalcolithic;Rome Datelist XIV;IT2CADUMA
+27347;R-746;5690;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Alessio et al. 1974, 359;﻿IT2FMC
+27348;R-746a;5570;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Alessio et al. 1974, 359 (different age to R-X-datelist);﻿IT2FMC
+27349;R-747a;5510;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+;R-748;5440;50;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+27350;R-748a;5570;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+;R-749;5560;50;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+27351;R-749a;5490;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27352;R-750;5260;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Alessio et al. 1974, 360;﻿IT2FMC
+;R-750A;5140;50;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+;R-752;5590;50;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+27334;R-753a;5680;50;wood;Italy;Fimon-Molino Casarotto, Site 3;neolithic;--;﻿IT2FMC
+;R-754;5960;50;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+27354;R-756a;5690;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27355;R-757a;5800;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27356;R-758a;5730;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27357;R-761;5610;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+;R-762;5640;50;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+27359;R-763a;5570;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27360;R-764;5370;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+27361;R-764a;5570;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;Alessio et al. 1974, 359;﻿IT2FMC
+;R-765A;5580;50;char;Italy;Fimon Molino Casaroto;neolithic;Biagi;IT2FMC
+27363;R-766a;5530;50;charcoal;Italy;Fimon-Molino Casarotto, site 4;neolithic;--;﻿IT2FMC
+;R-775;4810;50;charcoal;Italy;Romagnano;neolithic;Montagnari;IT2ROM
+;R-781a;6060;50;;Italy;Romagnano;neolithic;;IT2ROM
+27851;R-846;6140;120;seed/fruit;Italy;Passo di Corvo;neolithic;Rome Datelist X;﻿IT2PCO
+27385;R-878;5430;120;charcoal;Italy;Fossacesia;neolithic;Rome Datelist XVI;IT2FOSSA
+27567;R-892;6930;60;charcoal;Italy;Grottina dei Covoloni del Broion;mesolithic;Gehlen 2010;IT2GTOCOV
+;R-903alpha;3720;50;charcoal;Italy;Grotta del Mitreo;neolithic;;IT2MIT
+27451;R-904;5770;60;charcoal;Italy;Grotta del Mitreo;neolithic;M�ller 1991, 354;IT2MIT
+27452;R-904a;5770;50;charcoal;Italy;Grotta del Mitreo;neolithic;--;IT2MIT
+;R-981;9570;80;charcoal;Italy;Grota del Zingari;mesolithic;;IT2ZIN
+27221;R-996a;6330;70;;Italy;Catignano;neolithic;--;IT2CATI
+27222;R-997;6120;70;;Italy;Catignano;neolithic;--;IT2CATI
+2390;SI-2217;6985;100;charcoal;Montenegro;Odmut Cave;neolithic;M�ller 1991, 354;MT2ODM
+2391;SI-2219;6955;100;charcoal;Montenegro;Odmut Cave;neolithic;M�ller 1991, 354;MT2ODM
+2392;SI-2220;7150;100;charcoal;Montenegro;Odmut Cave;mesolithic;M�ller 1991, 354;MT2ODM
+2393;SI-2221;7720;85;charcoal;Montenegro;Odmut Cave;mesolithic;M�ller 1991, 354;MT2ODM
+2394;SI-2222;6900;100;charcoal;Montenegro;Odmut Cave;neolithic;M�ller 1991, 354;MT2ODM
+2395;SI-2223;6530;100;charcoal;Montenegro;Odmut Cave;neolithic;M�ller 1991, 354;MT2ODM
+2396;SI-2224;8590;100;charcoal;Montenegro;Odmut Cave;mesolithic;M�ller 1991, 354;MT2ODM
+;SI-2225;10045;85;charcoal;Montenegro;Odmut Cave;mesolithic;Boric, firistlipovic, ch;MT2ODM
+2397;SI-2226;7790;70;charcoal;Montenegro;Odmut Cave;mesolithic;M�ller 1991, 354;MT2ODM
+2398;SI-2227;7080;85;charcoal;Montenegro;Odmut Cave;mesolithic;M�ller 1991, 354;MT2ODM
+;SUERC-4535;6180;35;bone;Italy;Cava Petrilli;neolithic;Whitehouse;IT2CAP
+;SUERC-4536;6415;35;bone;Italy;Cava Petrilli;neolithic;Whitehouse;IT2CAP
+;SUERC-50656;9311;55;tooth;Montenegro;Seocka;mesolithic;Boric, firistlipovic, ch;MT2SEO
+;SUERC-50660;8903;34;tooth;Montenegro;Seocka;mesolithic;Boric, firistlipovic, ch;MT2SEO
+;SUERC-50661;8778;35;tooth;Montenegro;Seocka;mesolithic;Boric, firistlipovic, ch;MT2SEO
+;SUERC-50662;8823;34;tooth;Montenegro;Seocka;mesolithic;Boric, firistlipovic, ch;MT2SEO
+;Tan-88056;6950;140;;Italy;Trasano;neolithic;;IT2TRA
+;Tan-88067;6950;130;;Italy;Trasano;neolithic;;IT2TRA
+;Tan-88068;6660;150;;Italy;Trasano;neolithic;;IT2TRA
+;TAN-88247;6890;130;;Italy;Torre Sabea ;neolithic;Fiorentino 13;IT2TSA
+;Tan-88248;6980;130;;Italy;Trasano;neolithic;;IT2TRA
+;Tan-88313;6790;120;;Italy;Trasano;neolithic;;IT2TRA
+;TO-3420;8100;90;;Italy;Grotta del Pozzo;mesolithic;;IT2GROPOZ
+;TO-3422;9370;80;;Italy;Grotta del Pozzo;mesolithic;;IT2GROPOZ
+;UB-2271;6790;255;;Italy;Lagnano da Piede ;neolithic;;IT2LAP
+;UB-33107;3940;57;bone;Croatia;Vela špilja;neolithic;forenbaher 18;HR2VES
+;UBA-18364;4790;31;charcoal;Italy;Fimon Le Frate;neolithic;;IT2FIF
+;UBA-18365;4954;45;charcoal;Italy;Fimon Le Frate;neolithic;;IT2FIF
+;UBA-18366;5333;45;wood;Italy;Fimon Le Frate;neolithic;;IT2FIF
+;UBA-18367;4872;59;char;Italy;Fimon Le Frate;neolithic;;IT2FIF
+2342;UCIAMS-174933;6685;20;bone;Croatia;Kargadur;neolithic;;HR2KAR
+2343;UCIAMS-174934;6720;20;bone;Croatia;Kargadur;neolithic;;HR2KAR
+;UCLA-2148;6700;100;;Italy;Lagnano da Piede ;neolithic;Fiorentino 13;IT2LAP
+;UD-175;4850;200;charcoal;Italy;La Vela;neolithic;;IT2LAV
+;UtC-10453;7241;50;;Italy;Gaban;mesolithic;;IT2GAB
+27260;UtC-1342;6990;80;charcoal;Italy;Defensola;neolithic;Biagi 2002;﻿IT2DEF
+27261;UtC-1411;6639;40;charcoal;Italy;Defensola;neolithic;Biagi 2002;﻿IT2DEF
+;UtC-1417;8290;50;;Italy;Grotta delle Mura di Monopoli;mesolithic;;IT2GMURA
+;UtC-780;8240;120;;Italy;Grotta delle Mura di Monopoli;mesolithic;;IT2GMURA
+;UZ-2692/ETH-7631;4335;80;charcoal;Montenegro;Velika gruda;neolithic;forenbaher 18;MT2VGR
+;UZ-2693/ETH-7579;4155;65;charcoal;Montenegro;Velika gruda;neolithic;forenbaher 18;MT2VGR
+;UZ-2696/ETH-7685;4355;65;charcoal;Montenegro;Velika gruda;neolithic;forenbaher 18;MT2VGR
+2469;VERA-2340;7200;30;charcoal;Croatia;Vela špilja;mesolithic;Radic 2013 Online;HR2VES
+2470;VERA-2341;8200;30;charcoal;Croatia;Vela špilja;mesolithic;Radic 2013 Online;HR2VES
+2471;VERA-2344;8230;35;charcoal;Croatia;Vela špilja;mesolithic;Radic 2013 Online;HR2VES
+;VRI-272;4350;100;charcoal;Italy;Laas;neolithic;;IT2LAAS
+2472;Z-1967;7300;120;charcoal;Croatia;Vela špilja;neolithic;Muller 1991, 345;HR2VES
+2473;Z-1968;6990;120;charcoal;Croatia;Vela špilja;neolithic;Muller 1991, 345;HR2VES
+2411;Z-198;6460;90;charcoal;Croatia;Podosojna;neolithic;Muller 1991, 345;HR2POD
+;Z-2572;9590;180;;Croatia;Pupićina peč;mesolithic;Komšo;HR2PUP
+2438;Z-2575;6660;240;charcoal;Croatia;Pupićina peč;neolithic;Gehlen 2010;HR2PUP
+;Z-2576;10000;270;;Croatia;Pupićina peč;mesolithic;Komšo;HR2PUP
+2440;Z-2577;8770;310;charcoal;Croatia;Pupićina peč;mesolithic;Gehlen 2010;HR2PUP
+2442;Z-2635;8708;170;charcoal;Croatia;Pupićina peč;mesolithic;Gehlen 2010;HR2PUP
+;Z-3382;9640;80;;Croatia;Vlakno;mesolithic;Komšo;HR2VLA
+;Z-3383;10160;100;;Croatia;Vlakno;mesolithic;Komšo;HR2VLA
+2267;Z-3398;6400;110;bone;Croatia;Crno Vrilo;neolithic;Obelic 2011;HR2CRN
+2268;Z-3399;7560;120;bone;Croatia;Crno Vrilo;neolithic;Obelic 2011;HR2CRN
+;z-3478;4185;95;charcoal;Croatia;Nakovana;neolithic;forenbaher 18;HR2NAK
+;z-3480;4160;75;charcoal;Croatia;Nakovana;neolithic;forenbaher 18;HR2NAK
+;z-3481;3485;90;charcoal;Croatia;Nakovana;neolithic;forenbaher 18;HR2NAK
+29040;Z-409;4280;120;charcoal;Montenegro;Odmut;Chalcolithic;RADON;﻿MT2ODM
+29041;Z-410;4390;150;charcoal;Montenegro;Odmut;neolithic;RADON;﻿MT2ODM
+;Z-411;7440;150;charcoal;Montenegro;Odmut Cave;mesolithic;Boric, firistlipovic, ch;MT2ODM
+2399;Z-412;6736;130;charcoal;Montenegro;Odmut Cave;neolithic;M�ller 1991, 354;MT2ODM
+2400;Z-413;7350;160;charcoal;Montenegro;Odmut Cave;mesolithic;M�ller 1991, 354;MT2ODM
+29043;Z-416;4880;110;charcoal;Montenegro;Spilia;neolithic;RADON;﻿MT2SPI
+2401;Z-457;7030;160;charcoal;Montenegro;Odmut Cave;mesolithic;M�ller 1991, 354;MT2ODM
+2308;Z-579;7010;90;charcoal;Croatia;Gospodska pecina C;neolithic;Muller 1991, 345;HR2GOS
+;Z-580;5130;90;charcoal;Croatia;Gospodska pecina C;neolithic;;HR2GOS
+;Z-776;5340;65;sediment;Croatia;Kopačina;neolithic;;HR2KOP
+;Z-778;9160;100;shell;Croatia;Kopačina;mesolithic;Komšo;HR2KOP
+2425;Z-895;6300;150;seed/fruit;Croatia;Pokrovnik;neolithic;Muller 1991, 345;HR2POK
+;GrN-22172;5870;90;;Italy;Bannia-Palazzine di Sopra;neolithic;Tasca wet ak 201;IT2BAPA
+;GrN-22832;5580;90;;Italy;Bannia-Palazzine di Sopra;neolithic;Tasca wet ak 201;IT2BAPA
+;GrN-22833;5600;80;;Italy;Bannia-Palazzine di Sopra;neolithic;Tasca wet ak 201;IT2BAPA
+;GrN-22834;5630;90;;Italy;Bannia-Palazzine di Sopra;neolithic;Tasca wet ak 201;IT2BAPA
+;GrN-22835;5600;90;;Italy;Bannia-Palazzine di Sopra;neolithic;Tasca wet ak 201;IT2BAPA
+;GrN-22836;5560;80;;Italy;Bannia-Palazzine di Sopra;neolithic;Tasca wet ak 201;IT2BAPA
